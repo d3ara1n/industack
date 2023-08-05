@@ -8,7 +8,7 @@ industack.solid_fuel_generator.description		Accepts coal and charcoal to generat
 industack.solid_fuel_generator.status.burn		Burning
 industack.battery.name		Battery
 industack.battery.description		Be avoided high pressure and temperature
-industack.copper_bar.name		Copper
+industack.copper_bar.name		Copper Bar
 industack.copper_bar.description		Duller gold bar
 industack.copper_wire.name		Copper Wire
 industack.copper_wire.description		Slim copper bar

@@ -1,8 +1,10 @@
 {
+    "$schema": "../../schema/card.schema.json",
     "id": "industack.copper_bar",
-    "icon": "charcoal",
+    "icon": "iron_bar",
     "nameTerm": "industack.copper_bar.name",
     "descriptionTerm": "industack.copper_bar.description",
     "type": "Resources",
-    "value": 4
+    "value": 4,
+    "script": "Resource"
 }

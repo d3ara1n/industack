@@ -28,9 +28,9 @@ namespace IndustackNS
                 {
                     (SetCardBagType.AdvancedResources, "industack.copper_ore", 1),
                     (SetCardBagType.BasicResources, "industack.coal", 1),
-                    (SetCardBagType.BasicIdea, "industack.copper_wire", 1),
-                    (SetCardBagType.BasicBuildingIdea, "industack.solid_fuel_generator", 1),
-                    (SetCardBagType.BasicIdea, "industack.battery", 1)
+                    (SetCardBagType.BasicIdea, "industack.blueprint.copper_wire", 1),
+                    (SetCardBagType.BasicBuildingIdea, "industack.blueprint.solid_fuel_generator", 1),
+                    (SetCardBagType.BasicIdea, "industack.blueprint.battery", 1)
                 };
             foreach ((var set, var id, var chance) in cardSets)
             {

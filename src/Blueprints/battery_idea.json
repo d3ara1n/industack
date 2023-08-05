@@ -6,10 +6,7 @@
     "icon": "battery.png",
     "subprints": [
         {
-            "RequiredCards": [
-                "iron_bar",
-                "industack.electricity"
-            ],
+            "RequiredCards": "iron_bar, industack.electricity",
             "ResultCard": "industack.battery",
             "Time": 10,
             "StatusTerm": "industack.blueprint.battery.status"

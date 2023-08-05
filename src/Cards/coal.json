@@ -1,4 +1,5 @@
 {
+    "$schema": "../../schema/card.schema.json",
     "id": "industack.coal",
     "icon": "charcoal",
     "nameTerm": "industack.coal.name",

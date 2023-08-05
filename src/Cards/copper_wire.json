@@ -1,8 +1,9 @@
 {
+    "$schema": "../../schema/card.schema.json",
     "id": "industack.copper_wire",
-    "icon": "charcoal",
     "nameTerm": "industack.copper_wire.name",
     "descriptionTerm": "industack.copper_wire.description",
     "type": "Resources",
-    "value": 5
+    "value": 5,
+    "script": "Resource"
 }

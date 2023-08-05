@@ -1,8 +1,11 @@
 {
+    "$schema": "../../schema/card.schema.json",
     "id": "industack.copper_ore",
-    "icon": "charcoal",
+    "icon": "iron_ore",
     "nameTerm": "industack.copper_ore.name",
     "descriptionTerm": "industack.copper_ore.description",
     "type": "Locations",
-    "value": 7
+    "value": 7,
+    "script": "Resource"
+
 }
