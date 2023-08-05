@@ -1,0 +1,12 @@
+{
+    "id":"industack.battery",
+    "nameTerm": "industack.battery.name",
+    "descriptionTerm": "industack.battery.description",
+    "icon": "battery.png",
+    "type": "Structures",
+    "script": "Chest",
+    "_HeldCardId": "industack.electricity",
+    "_MaxCoinCount": 300,
+    "_IsBuilding": true,
+    "value": 0
+}

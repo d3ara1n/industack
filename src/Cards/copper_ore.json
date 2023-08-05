@@ -1,0 +1,8 @@
+{
+    "id": "industack.copper_ore",
+    "icon": "charcoal",
+    "nameTerm": "industack.copper_ore.name",
+    "descriptionTerm": "industack.copper_ore.description",
+    "type": "Locations",
+    "value": 7
+}

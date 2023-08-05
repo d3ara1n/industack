@@ -1,0 +1,41 @@
+{
+    "$schema": "../../schema/boosterpack.schema.json",
+    "id": "industack.boosterpack.scientific_spirit",
+    "nameTerm": "industack.boosterpack.scientific_spirit.name",
+    "minQuestCount": 40,
+    "cost": 30,
+    "icon": "tiny_step.png",
+    "location": "Mainland",
+    "cardBags": [
+        {
+            "cardBagType": "Chances",
+            "cardInPack": 4,
+            "chances": [
+                {
+                    "cardId": "industack.blueprint.battery",
+                    "chance": 1
+                },
+                {
+                    "cardId": "industack.blueprint.copper_bar",
+                    "chance": 1
+                },
+                {
+                    "cardId": "industack.copper_bar",
+                    "chance": 1
+                },
+                {
+                    "cardId": "industack.copper_ore",
+                    "chance": 10
+                },
+                {
+                    "cardId": "industack.electricity",
+                    "chance": 10
+                },
+                {
+                    "cardId": "industack.coal",
+                    "chance": 10
+                }
+            ]
+        }
+    ]
+}

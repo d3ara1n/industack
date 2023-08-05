@@ -1,0 +1,49 @@
+{
+    "$schema": "../../schema/boosterpack.schema.json",
+    "id": "industack.boosterpack.tiny_step",
+    "nameTerm": "industack.boosterpack.tiny_step.name",
+    "cost": 20,
+    "icon": "tiny_step.png",
+    "location": "Mainland",
+    "minQuestCount": 35,
+    "cardBags": [
+        {
+            "cardBagType": "Chances",
+            "cardInPack": 4,
+            "chances": [
+                {
+                    "cardId": "iron_bar",
+                    "chance": 1
+                },
+                {
+                    "cardId": "iron_ore",
+                    "chance": 2
+                },
+                {
+                    "cardId": "gold_bar",
+                    "chance": 1
+                },
+                {
+                    "cardId": "gold_ore",
+                    "chance": 2
+                },
+                {
+                    "cardId": "industack.copper_bar",
+                    "chance": 2
+                },
+                {
+                    "cardId": "industack.copper_ore",
+                    "chance": 4
+                },
+                {
+                    "cardId": "industack.electricity",
+                    "chance": 5
+                },
+                {
+                    "cardId": "industack.coal",
+                    "chance": 4
+                }
+            ]
+        }
+    ]
+}

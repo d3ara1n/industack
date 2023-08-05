@@ -1,0 +1,15 @@
+{
+    "$schema": "../../schema/blueprint.schema.json",
+    "id": "industack.blueprint.solid_fuel_generator",
+    "nameTerm": "industack.blueprint.solid_fuel_generator.name",
+    "icon": "solid_fuel_generator.png",
+    "group": "Building",
+    "subprints": [
+        {
+            "RequiredCards": "iron_bar, industack.electricity, industack.electricity, industack.electricity",
+            "ResultCard": "industack.battery",
+            "Time": 10,
+            "StatusTerm": "industack.blueprint.battery.status"
+        }
+    ]
+}

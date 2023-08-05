@@ -1,0 +1,15 @@
+{
+    "$schema": "../../schema/blueprint.schema.json",
+    "id": "industack.blueprint.copper_wire",
+    "nameTerm": "industack.blueprint.copper_wire.name",
+    "group": "Building",
+    "icon": "battery.png",
+    "subprints": [
+        {
+            "RequiredCards": ["industack.copper_bar"],
+            "ResultCard": "industack.copper_wire",
+            "Time": 10,
+            "StatusTerm": "industack.blueprint.copper_wire.status"
+        }
+    ]
+}

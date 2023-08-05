@@ -1,0 +1,21 @@
+Term	Notes	English
+industack.electricity.name		Electricity
+industack.electricity.description		Powers appliances and factories
+industack.coal.name		Coal
+industack.coal.description		Produces energy
+industack.solid_fuel_generator.name		Solid Fuel Generator
+industack.solid_fuel_generator.description		Accepts coal and charcoal to generate electricity
+industack.solid_fuel_generator.status.burn		Burning
+industack.battery.name		Battery
+industack.battery.description		Be avoided high pressure and temperature
+industack.copper_bar.name		Copper
+industack.copper_bar.description		Duller gold bar
+industack.copper_wire.name		Copper Wire
+industack.copper_wire.description		Slim copper bar
+industack.blueprint.battery.name		Battery
+industack.blueprint.battery.status		Crafting battery
+industack.blueprint.solid_fuel_generator.name		Solid Fuel Generator
+industack.blueprint.copper_wire.name		Copper Wire
+industack.blueprint.copper_wire.description		Crafting copper wires
+industack.boosterpack.tiny_step.name		Tiny Step
+industack.boosterpack.scientific_spirit.name		Scientific Spirit

@@ -1,0 +1,10 @@
+{
+    "id": "industack.electricity",
+    "nameTerm": "industack.electricity.name",
+    "descriptionTerm": "industack.electricity.description",
+    "icon": "electricity.png",
+    "type": "Resources",
+    "script": "IndustackNS.Cards.Electricity",
+    "value": -1,
+    "_IsShiny": true
+}

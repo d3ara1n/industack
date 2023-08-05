@@ -1,0 +1,8 @@
+{
+    "id": "industack.copper_bar",
+    "icon": "charcoal",
+    "nameTerm": "industack.copper_bar.name",
+    "descriptionTerm": "industack.copper_bar.description",
+    "type": "Resources",
+    "value": 4
+}

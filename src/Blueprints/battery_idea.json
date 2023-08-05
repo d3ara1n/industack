@@ -1,0 +1,18 @@
+{
+    "$schema": "../../schema/blueprint.schema.json",
+    "id": "industack.blueprint.battery",
+    "nameTerm": "industack.blueprint.battery.name",
+    "group": "Building",
+    "icon": "battery.png",
+    "subprints": [
+        {
+            "RequiredCards": [
+                "iron_bar",
+                "industack.electricity"
+            ],
+            "ResultCard": "industack.battery",
+            "Time": 10,
+            "StatusTerm": "industack.blueprint.battery.status"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "id": "industack.solid_fuel_generator",
+    "nameTerm": "industack.solid_fuel_generator.name",
+    "descriptionTerm": "industack.solid_fuel_generator.description",
+    "type": "Structures",
+    "_IsBuilding": true,
+    "value": 7,
+    "script": "IndustackNS.Cards.SolidFuelGenerator"
+}
