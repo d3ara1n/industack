@@ -2,7 +2,6 @@
     "$schema": "../../schema/blueprint.schema.json",
     "id": "industack.blueprint.solid_fuel_generator",
     "nameTerm": "industack.blueprint.solid_fuel_generator.name",
-    "icon": "solid_fuel_generator.png",
     "group": "Building",
     "subprints": [
         {
@@ -11,11 +10,19 @@
                 "iron_bar",
                 "iron_bar",
                 "industack.copper_wire",
+                "industack.copper_wire",
+                "industack.engineer"
+            ],
+            "CardsToRemove": [
+                "iron_bar",
+                "iron_bar",
+                "iron_bar",
+                "industack.copper_wire",
                 "industack.copper_wire"
             ],
             "ResultCard": "industack.solid_fuel_generator",
             "Time": 10,
-            "StatusTerm": "industack.blueprint.battery.status"
+            "StatusTerm": "industack.blueprint.solid_fuel_generator.status"
         }
     ]
 }

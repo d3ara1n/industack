@@ -3,18 +3,31 @@
     "id": "industack.blueprint.copper_wire",
     "nameTerm": "industack.blueprint.copper_wire.name",
     "group": "Building",
-    "icon": "battery.png",
     "subprints": [
         {
             "RequiredCards": [
                 "industack.copper_bar",
+                "industack.engineer"
+            ],
+            "CardsToRemove": [
                 "industack.copper_bar"
             ],
-            "CardsToRemove": [],
             "ResultCard": "industack.copper_wire",
             "ExtraResultCards": [
                 "industack.copper_wire"
             ],
+            "Time": 10,
+            "StatusTerm": "industack.blueprint.copper_wire.status"
+        },
+        {
+            "RequiredCards": [
+                "industack.copper_bar",
+                "any_villager"
+            ],
+            "CardsToRemove": [
+                "industack.copper_bar"
+            ],
+            "ResultCard": "industack.copper_wire",
             "Time": 10,
             "StatusTerm": "industack.blueprint.copper_wire.status"
         }

@@ -1,0 +1,22 @@
+{
+    "$schema": "../../schema/blueprint.schema.json",
+    "id": "industack.blueprint.copper_bar",
+    "nameTerm": "industack.blueprint.copper_bar.name",
+    "group": "Building",
+    "subprints": [
+        {
+            "RequiredCards": [
+                "industack.furnace",
+                "industack.copper_ore",
+                "industack.coal"
+            ],
+            "CardsToRemove": [
+                "industack.copper_ore",
+                "industack.coal"
+            ],
+            "ResultCard": "industack.copper_bar",
+            "Time": 30,
+            "StatusTerm": "industack.blueprint.copper_bar.status"
+        }
+    ]
+}

@@ -4,8 +4,22 @@
     "icon": "mine",
     "nameTerm": "industack.coal_mine.name",
     "descriptionTerm": "industack.coal_mine.description",
-    "type": "Locations",
+    "type": "Structures",
     "value": 8,
-    "script": "CombatableHarvestable"
-
+    "script": "CombatableHarvestable",
+    "_IsUnlimited": true,
+    "_IsBuilding": true,
+    "_MyCardBag": {
+        "CardBagType": "Chances",
+        "Chances": [
+            {
+                "Chance": 5,
+                "Id": "industack.coal"
+            },
+            {
+                "Chance": 1,
+                "Id": "rock"
+            }
+        ]
+    }
 }

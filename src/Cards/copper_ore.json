@@ -4,8 +4,8 @@
     "icon": "iron_ore",
     "nameTerm": "industack.copper_ore.name",
     "descriptionTerm": "industack.copper_ore.description",
-    "type": "Locations",
+    "type": "Resources",
     "value": 7,
-    "script": "Resource"
+    "script": "IndustackNS.Cards.Ore"
 
 }

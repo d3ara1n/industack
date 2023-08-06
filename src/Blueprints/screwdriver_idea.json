@@ -1,0 +1,18 @@
+{
+    "$schema": "../../schema/blueprint.schema.json",
+    "id": "industack.blueprint.screwdriver",
+    "nameTerm": "industack.blueprint.screwdriver.name",
+    "group": "Building",
+    "subprints": [
+        {
+            "RequiredCards": [
+                "iron_bar",
+                "plank",
+                "flint"
+            ],
+            "ResultCard": "industack.screwdriver",
+            "Time": 20,
+            "StatusTerm": "industack.blueprint.screwdriver.status"
+        }
+    ]
+}

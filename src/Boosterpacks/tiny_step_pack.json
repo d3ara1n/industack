@@ -12,35 +12,31 @@
             "cardInPack": 4,
             "chances": [
                 {
-                    "cardId": "iron_bar",
+                    "id": "iron_bar",
                     "chance": 1
                 },
                 {
-                    "cardId": "iron_ore",
+                    "id": "iron_ore",
                     "chance": 2
                 },
                 {
-                    "cardId": "gold_bar",
+                    "id": "gold_bar",
                     "chance": 1
                 },
                 {
-                    "cardId": "gold_ore",
+                    "id": "gold_ore",
                     "chance": 2
                 },
                 {
-                    "cardId": "industack.copper_bar",
+                    "id": "industack.copper_bar",
                     "chance": 2
                 },
                 {
-                    "cardId": "industack.copper_ore",
+                    "id": "industack.copper_ore",
                     "chance": 4
                 },
                 {
-                    "cardId": "industack.electricity",
-                    "chance": 5
-                },
-                {
-                    "cardId": "industack.coal",
+                    "id": "industack.coal",
                     "chance": 4
                 }
             ]

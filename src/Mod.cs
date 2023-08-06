@@ -10,8 +10,29 @@ namespace IndustackNS
         public override void Ready()
         {
             InitializeCardColorRules(ColorManager.instance);
-            AddCardsToCardBag(WorldManager.instance.GameDataLoader);
-            Logger.Log("Ready!");
+            //AddCardsToCardBag(WorldManager.instance.GameDataLoader);
+            AddBoosterpacks();
+            Logger.Log("Industack mod content Ready!");
+        }
+
+        private void AddBoosterpacks()
+        {
+            AddBoosterpackTo(
+                "main",
+                new[]
+                {
+                    "industack.boosterpack.tiny_step",
+                    "industack.boosterpack.scientific_spirit"
+                }
+            );
+        }
+
+        private void AddBoosterpackTo(string boardId, IEnumerable<string> boosterIds)
+        {
+            foreach (var id in boosterIds)
+            {
+                WorldManager.instance.Boards.First(x => x.Id == boardId).BoosterIds.Add(id);
+            }
         }
 
         private void InitializeCardColorRules(ColorManager manager)
@@ -28,9 +49,14 @@ namespace IndustackNS
                 new()
                 {
                     (SetCardBagType.AdvancedResources, "industack.copper_ore", 1),
+                    (SetCardBagType.AdvancedResources, "industack.copper_deposit", 1),
                     (SetCardBagType.BasicResources, "industack.coal", 1),
                     (SetCardBagType.BasicIdea, "industack.blueprint.copper_wire", 1),
-                    (SetCardBagType.BasicBuildingIdea, "industack.blueprint.solid_fuel_generator", 1),
+                    (
+                        SetCardBagType.BasicBuildingIdea,
+                        "industack.blueprint.solid_fuel_generator",
+                        1
+                    ),
                     (SetCardBagType.BasicIdea, "industack.blueprint.battery", 1)
                 };
             foreach ((var set, var id, var chance) in cardSets)

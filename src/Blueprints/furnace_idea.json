@@ -1,0 +1,30 @@
+{
+    "$schema": "../../schema/blueprint.schema.json",
+    "id": "industack.blueprint.furnace",
+    "nameTerm": "industack.blueprint.furnace.name",
+    "group": "Building",
+    "subprints": [
+        {
+            "RequiredCards": [
+                "brick",
+                "brick",
+                "brick",
+                "brick",
+                "brick",
+                "industack.coal",
+                "builder"
+            ],
+            "CardsToRemove": [
+                "brick",
+                "brick",
+                "brick",
+                "brick",
+                "brick",
+                "industack.coal"
+            ],
+            "ResultCard": "industack.furnace",
+            "Time": 10,
+            "StatusTerm": "industack.blueprint.furnace.status"
+        }
+    ]
+}

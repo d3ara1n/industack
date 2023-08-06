@@ -1,0 +1,9 @@
+{
+    "$schema": "../../schema/card.schema.json",
+    "id":"industack.engineer",
+    "nameTerm": "industack.engineer.name",
+    "descriptionTerm": "industack.engineer.description",
+    "icon": "villager.png",
+    "type": "Humans",
+    "script": "IndustackNS.Cards.Engineer"
+}

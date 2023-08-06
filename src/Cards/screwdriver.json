@@ -1,0 +1,14 @@
+{
+    "$schema": "../../schema/card.schema.json",
+    "id":"industack.screwdriver",
+    "nameTerm": "industack.screwdriver.name",
+    "descriptionTerm": "industack.screwdriver.description",
+    "icon": "screwdriver.png",
+    "type": "Equipable",
+    "script": "Equipable",
+    "_AttackType": "Melee",
+    "_EquipableType": "Weapon",
+    "_VillagerTypeOverride": "industack.engineer",
+    "_Level": 1,
+    "value": 2
+}

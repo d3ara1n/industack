@@ -1,25 +1,42 @@
-Term	Notes	English
-industack.electricity.name		Electricity
-industack.electricity.description		Powers appliances and factories
-industack.coal.name		Coal
-industack.coal.description		Produces energy
-industack.coal_mine.name		Coal
-industack.coal_mine.description		Black diamond
-industack.solid_fuel_generator.name		Solid Fuel Generator
-industack.solid_fuel_generator.description		Accepts coal and charcoal to generate electricity
-industack.solid_fuel_generator.status.burn		Burning
-industack.battery.name		Battery
-industack.battery.description		Be avoided high pressure and temperature
-industack.copper_bar.name		Copper Bar
-industack.copper_bar.description		Duller gold bar
-industack.copper_wire.name		Copper Wire
-industack.copper_wire.description		Slim copper bar
-industack.copper_mine.name		Copper Mine
-industack.copper_mine.description		Infinite copper ores
-industack.blueprint.battery.name		Battery
-industack.blueprint.battery.status		Crafting battery
-industack.blueprint.solid_fuel_generator.name		Solid Fuel Generator
-industack.blueprint.copper_wire.name		Copper Wire
-industack.blueprint.copper_wire.status		Crafting copper wires
-industack.boosterpack.tiny_step.name		Tiny Step
-industack.boosterpack.scientific_spirit.name		Scientific Spirit
+Term	English
+industack.electricity.name	Electricity
+industack.electricity.description	Powers appliances and factories
+industack.solid_fuel_generator.name	Solid Fuel Generator
+industack.solid_fuel_generator.description	Accepts coal and charcoal to generate electricity
+industack.solid_fuel_generator.status.burn	Burning
+industack.battery.name	Battery
+industack.battery.description	Be avoided high pressure and temperature
+industack.coal.name	Coal
+industack.coal.description	Black diamond
+industack.coal_mine.name	Coal Mine
+industack.coal_mine.description	Infinite coal
+industack.copper_bar.name	Copper Bar
+industack.copper_bar.description	Duller gold bar
+industack.copper_wire.name	Copper Wire
+industack.copper_wire.description	Slim copper bar
+industack.copper_ore.name	Copper Ore
+industack.copper_ore.description	Can be turned in to copper bars
+industack.copper_mine.name	Copper Mine
+industack.copper_mine.description	Infinite copper ores
+industack.copper_deposit.name	Copper Deposit
+industack.copper_deposit.description	Finite copper ores
+industack.engineer.name	Engineer
+industack.engineer.description	Knowledgeable villager who owns a useful tool
+industack.screwdriver.name	Screwdriver
+industack.screwdriver.description	It's not safe to insert it into a socket
+industack.furnace.name	Furnace
+industack.furnace.description	Higher temperature than smelter
+industack.blueprint.battery.name	Battery
+industack.blueprint.battery.status	Crafting battery
+industack.blueprint.copper_wire.name	Copper Wire
+industack.blueprint.copper_wire.status	Crafting copper wires
+industack.blueprint.copper_bar.name	Copper Bar
+industack.blueprint.copper_bar.status	Crafting copper bar
+industack.blueprint.furnace.name	Furnace
+industack.blueprint.furnace.status	Crafting Furnace
+industack.blueprint.screwdriver.name	Screwdriver
+industack.blueprint.screwdriver.status	Crafting screwdriver
+industack.blueprint.solid_fuel_generator.name	Solid Fuel Generator
+industack.blueprint.solid_fuel_generator.status	Crafting solid fuel generator
+industack.boosterpack.tiny_step.name	Tiny Step
+industack.boosterpack.scientific_spirit.name	Scientific Spirit
