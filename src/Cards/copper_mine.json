@@ -1,0 +1,24 @@
+{
+    "$schema": "../../schema/card.schema.json",
+    "id": "industack.copper_mine",
+    "icon": "mine",
+    "nameTerm": "industack.copper_mine.name",
+    "descriptionTerm": "industack.copper_mine.description",
+    "type": "Locations",
+    "value": 9,
+    "script": "CombatableHarvestable",
+    "_Amount": 1,
+    "_MyCardBag": {
+        "CardBagType": "Chances",
+        "Chances": [
+            {
+                "Chance": 1,
+                "Id": "industack.copper_ore"
+            },
+            {
+                "Chance": 2,
+                "Id": "rock"
+            }
+        ]
+    }
+}

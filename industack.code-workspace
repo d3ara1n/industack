@@ -9,8 +9,13 @@
 			"boosterpack",
 			"cardbag",
 			"industack",
+			"subprint",
 			"subprints"
 		],
-		"dotnet.defaultSolution": "Industack.sln"
+		"dotnet.defaultSolution": "Industack.sln",
+		"[python]": {
+			"editor.defaultFormatter": "ms-python.black-formatter"
+		},
+		"python.formatting.provider": "none"
 	}
 }

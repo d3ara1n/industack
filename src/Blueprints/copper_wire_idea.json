@@ -6,8 +6,15 @@
     "icon": "battery.png",
     "subprints": [
         {
-            "RequiredCards": "industack.copper_bar, industack.copper_bar",
+            "RequiredCards": [
+                "industack.copper_bar",
+                "industack.copper_bar"
+            ],
+            "CardsToRemove": [],
             "ResultCard": "industack.copper_wire",
+            "ExtraResultCards": [
+                "industack.copper_wire"
+            ],
             "Time": 10,
             "StatusTerm": "industack.blueprint.copper_wire.status"
         }

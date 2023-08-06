@@ -6,7 +6,13 @@
     "group": "Building",
     "subprints": [
         {
-            "RequiredCards": "iron_bar, iron_bar, iron_bar, industack.copper_wire, industack.copper_wire",
+            "RequiredCards": [
+                "iron_bar",
+                "iron_bar",
+                "iron_bar",
+                "industack.copper_wire",
+                "industack.copper_wire"
+            ],
             "ResultCard": "industack.solid_fuel_generator",
             "Time": 10,
             "StatusTerm": "industack.blueprint.battery.status"

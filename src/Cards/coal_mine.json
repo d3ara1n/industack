@@ -1,0 +1,11 @@
+{
+    "$schema": "../../schema/card.schema.json",
+    "id": "industack.coal_mine",
+    "icon": "mine",
+    "nameTerm": "industack.coal_mine.name",
+    "descriptionTerm": "industack.coal_mine.description",
+    "type": "Locations",
+    "value": 8,
+    "script": "CombatableHarvestable"
+
+}

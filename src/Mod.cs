@@ -23,6 +23,7 @@ namespace IndustackNS
         private void AddCardsToCardBag(GameDataLoader loader)
         {
             // do not use boosterpack, use this!
+            // boosterpack definition is buggy
             List<(SetCardBagType, string, int)> cardSets =
                 new()
                 {
