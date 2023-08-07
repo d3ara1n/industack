@@ -2,7 +2,7 @@
     "$schema": "../../schema/blueprint.schema.json",
     "id": "industack.blueprint.copper_bar",
     "nameTerm": "industack.copper_bar.name",
-    "group": "Building",
+    "group": "Resources",
     "subprints": [
         {
             "RequiredCards": [

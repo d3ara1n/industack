@@ -2,7 +2,7 @@
     "$schema": "../../schema/blueprint.schema.json",
     "id": "industack.blueprint.battery",
     "nameTerm": "industack.battery.name",
-    "group": "Building",
+    "group": "Resources",
     "icon": "battery.png",
     "subprints": [
         {

@@ -2,7 +2,7 @@
     "$schema": "../../schema/blueprint.schema.json",
     "id": "industack.blueprint.copper_wire",
     "nameTerm": "industack.copper_wire.name",
-    "group": "Building",
+    "group": "Resources",
     "subprints": [
         {
             "RequiredCards": [

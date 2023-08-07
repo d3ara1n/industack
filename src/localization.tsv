@@ -25,6 +25,10 @@ industack.screwdriver.name	Screwdriver	螺丝刀
 industack.screwdriver.description	It's not safe to insert it into a socket	能开启新世界大门的工具
 industack.furnace.name	Furnace	熔炉
 industack.furnace.description	Higher temperature than smelter	熔炼更高级的矿石
+industack.iron_nugget.name	Iron Nugget	铁粒
+industack.iron_nugget.description	Small piece of iron bar	小块铁
+industack.kinetic_turret.name	Kinetic Turtle	动能炮塔
+industack.kinetic_turret.description	Search enemies and shoot bullets	自动索敌击杀
 industack.protein_bar.name	Protein Bar	蛋白质棒
 industack.protein_bar.description	Put food ont it to increase its food value	难以下咽的食物，能使用其他食物为自己增值
 industack.protein_bar.status.merge	Craft protein bar	蛋白质棒增值中
@@ -33,5 +37,6 @@ industack.portal_in.description	Teleport resource to the portal exit	将资源�
 industack.portal_in.status.teleport	Teleporting [item]	传送 [item] 中
 industack.portal_out.name	Portal Entrance	传送门出口
 industack.portal_out.description	Accepts resources teleported	将接收到的资源
+industack.turret.status.reload	Turtle is loading [type]	炮塔装载弹药 [type] 中
 industack.boosterpack.tiny_step.name	Tiny Step	长远目光
 industack.boosterpack.scientific_spirit.name	Scientific Spirit	科学精神

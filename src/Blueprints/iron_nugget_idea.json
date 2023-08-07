@@ -1,0 +1,25 @@
+{
+    "$schema": "../../schema/blueprint.schema.json",
+    "id": "industack.blueprint.battery",
+    "nameTerm": "industack.battery.name",
+    "group": "Resources",
+    "subprints": [
+        {
+            "RequiredCards": [
+                "iron_bar",
+                "industack.engineer"
+            ],
+            "CardsToRemove": [
+                "iron_bar"
+            ],
+            "ResultCard": "industack.iron_nugget",
+            "ExtraResultCards": [
+                "industack.iron_nugget",
+                "industack.iron_nugget",
+                "industack.iron_nugget",
+                "industack.iron_nugget"
+            ],
+            "Time": 10
+        }
+    ]
+}

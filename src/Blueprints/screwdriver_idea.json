@@ -2,7 +2,7 @@
     "$schema": "../../schema/blueprint.schema.json",
     "id": "industack.blueprint.screwdriver",
     "nameTerm": "industack.screwdriver.name",
-    "group": "Building",
+    "group": "Basic",
     "subprints": [
         {
             "RequiredCards": [
