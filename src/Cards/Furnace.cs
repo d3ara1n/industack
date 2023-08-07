@@ -1,6 +1,6 @@
 namespace IndustackNS.Cards;
 
-public class Furnace : CardData
+public class Furnace : Building
 {
     public override bool DetermineCanHaveCardsWhenIsRoot => true;
 

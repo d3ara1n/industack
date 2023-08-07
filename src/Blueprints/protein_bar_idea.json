@@ -1,0 +1,17 @@
+{
+    "$schema": "../../schema/blueprint.schema.json",
+    "id": "industack.blueprint.protein_bar",
+    "nameTerm": "industack.protein_bar.name",
+    "group": "Building",
+    "icon": "protein_bar.png",
+    "subprints": [
+        {
+            "RequiredCards": [
+                "raw_meat",
+                "magic_dust"
+            ],
+            "ResultCard": "industack.protein_bar",
+            "Time": 1
+        }
+    ]
+}

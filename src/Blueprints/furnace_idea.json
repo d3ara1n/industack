@@ -1,7 +1,7 @@
 {
     "$schema": "../../schema/blueprint.schema.json",
     "id": "industack.blueprint.furnace",
-    "nameTerm": "industack.blueprint.furnace.name",
+    "nameTerm": "industack.furnace.name",
     "group": "Building",
     "subprints": [
         {
@@ -23,8 +23,7 @@
                 "industack.coal"
             ],
             "ResultCard": "industack.furnace",
-            "Time": 10,
-            "StatusTerm": "industack.blueprint.furnace.status"
+            "Time": 10
         }
     ]
 }

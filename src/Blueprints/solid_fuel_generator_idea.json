@@ -1,7 +1,7 @@
 {
     "$schema": "../../schema/blueprint.schema.json",
     "id": "industack.blueprint.solid_fuel_generator",
-    "nameTerm": "industack.blueprint.solid_fuel_generator.name",
+    "nameTerm": "industack.solid_fuel_generator.name",
     "group": "Building",
     "subprints": [
         {
@@ -21,8 +21,7 @@
                 "industack.copper_wire"
             ],
             "ResultCard": "industack.solid_fuel_generator",
-            "Time": 10,
-            "StatusTerm": "industack.blueprint.solid_fuel_generator.status"
+            "Time": 10
         }
     ]
 }

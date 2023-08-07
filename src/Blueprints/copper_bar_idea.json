@@ -1,7 +1,7 @@
 {
     "$schema": "../../schema/blueprint.schema.json",
     "id": "industack.blueprint.copper_bar",
-    "nameTerm": "industack.blueprint.copper_bar.name",
+    "nameTerm": "industack.copper_bar.name",
     "group": "Building",
     "subprints": [
         {
@@ -15,8 +15,7 @@
                 "industack.coal"
             ],
             "ResultCard": "industack.copper_bar",
-            "Time": 30,
-            "StatusTerm": "industack.blueprint.copper_bar.status"
+            "Time": 30
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "$schema": "../../schema/blueprint.schema.json",
     "id": "industack.blueprint.battery",
-    "nameTerm": "industack.blueprint.battery.name",
+    "nameTerm": "industack.battery.name",
     "group": "Building",
     "icon": "battery.png",
     "subprints": [
@@ -11,8 +11,7 @@
                 "industack.electricity"
             ],
             "ResultCard": "industack.battery",
-            "Time": 10,
-            "StatusTerm": "industack.blueprint.battery.status"
+            "Time": 10
         }
     ]
 }

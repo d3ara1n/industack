@@ -1,7 +1,7 @@
 {
     "$schema": "../../schema/blueprint.schema.json",
     "id": "industack.blueprint.screwdriver",
-    "nameTerm": "industack.blueprint.screwdriver.name",
+    "nameTerm": "industack.screwdriver.name",
     "group": "Building",
     "subprints": [
         {
@@ -11,8 +11,7 @@
                 "flint"
             ],
             "ResultCard": "industack.screwdriver",
-            "Time": 20,
-            "StatusTerm": "industack.blueprint.screwdriver.status"
+            "Time": 20
         }
     ]
 }

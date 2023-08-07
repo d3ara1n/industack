@@ -1,0 +1,25 @@
+{
+    "$schema": "../../schema/blueprint.schema.json",
+    "id": "industack.blueprint.portal_out",
+    "nameTerm": "industack.portal_out.name",
+    "group": "Building",
+    "subprints": [
+        {
+            "RequiredCards": [
+                "brick",
+                "brick",
+                "industack.copper_wire",
+                "magic_dust",
+                "builder"
+            ],
+            "CardsToRemove": [
+                "brick",
+                "brick",
+                "industack.copper_wire",
+                "magic_dust"
+            ],
+            "ResultCard": "industack.portal_out",
+            "Time": 30
+        }
+    ]
+}

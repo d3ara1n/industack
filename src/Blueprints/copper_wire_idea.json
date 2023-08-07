@@ -1,7 +1,7 @@
 {
     "$schema": "../../schema/blueprint.schema.json",
     "id": "industack.blueprint.copper_wire",
-    "nameTerm": "industack.blueprint.copper_wire.name",
+    "nameTerm": "industack.copper_wire.name",
     "group": "Building",
     "subprints": [
         {
@@ -16,8 +16,7 @@
             "ExtraResultCards": [
                 "industack.copper_wire"
             ],
-            "Time": 10,
-            "StatusTerm": "industack.blueprint.copper_wire.status"
+            "Time": 10
         },
         {
             "RequiredCards": [
@@ -28,8 +27,7 @@
                 "industack.copper_bar"
             ],
             "ResultCard": "industack.copper_wire",
-            "Time": 10,
-            "StatusTerm": "industack.blueprint.copper_wire.status"
+            "Time": 10
         }
     ]
 }

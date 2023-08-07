@@ -1,0 +1,10 @@
+{
+    "$schema": "../../schema/card.schema.json",
+    "id":"industack.protein_bar",
+    "nameTerm": "industack.protein_bar.name",
+    "descriptionTerm": "industack.protein_bar.description",
+    "icon": "protein_bar.png",
+    "type": "Food",
+    "script": "IndustackNS.Cards.ProteinBar",
+    "value": 1
+}

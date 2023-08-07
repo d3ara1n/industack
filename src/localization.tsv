@@ -1,42 +1,37 @@
-Term	English
-industack.electricity.name	Electricity
-industack.electricity.description	Powers appliances and factories
-industack.solid_fuel_generator.name	Solid Fuel Generator
-industack.solid_fuel_generator.description	Accepts coal and charcoal to generate electricity
-industack.solid_fuel_generator.status.burn	Burning
-industack.battery.name	Battery
-industack.battery.description	Be avoided high pressure and temperature
-industack.coal.name	Coal
-industack.coal.description	Black diamond
-industack.coal_mine.name	Coal Mine
-industack.coal_mine.description	Infinite coal
-industack.copper_bar.name	Copper Bar
-industack.copper_bar.description	Duller gold bar
-industack.copper_wire.name	Copper Wire
-industack.copper_wire.description	Slim copper bar
-industack.copper_ore.name	Copper Ore
-industack.copper_ore.description	Can be turned in to copper bars
-industack.copper_mine.name	Copper Mine
-industack.copper_mine.description	Infinite copper ores
-industack.copper_deposit.name	Copper Deposit
-industack.copper_deposit.description	Finite copper ores
-industack.engineer.name	Engineer
-industack.engineer.description	Knowledgeable villager who owns a useful tool
-industack.screwdriver.name	Screwdriver
-industack.screwdriver.description	It's not safe to insert it into a socket
-industack.furnace.name	Furnace
-industack.furnace.description	Higher temperature than smelter
-industack.blueprint.battery.name	Battery
-industack.blueprint.battery.status	Crafting battery
-industack.blueprint.copper_wire.name	Copper Wire
-industack.blueprint.copper_wire.status	Crafting copper wires
-industack.blueprint.copper_bar.name	Copper Bar
-industack.blueprint.copper_bar.status	Crafting copper bar
-industack.blueprint.furnace.name	Furnace
-industack.blueprint.furnace.status	Crafting Furnace
-industack.blueprint.screwdriver.name	Screwdriver
-industack.blueprint.screwdriver.status	Crafting screwdriver
-industack.blueprint.solid_fuel_generator.name	Solid Fuel Generator
-industack.blueprint.solid_fuel_generator.status	Crafting solid fuel generator
-industack.boosterpack.tiny_step.name	Tiny Step
-industack.boosterpack.scientific_spirit.name	Scientific Spirit
+Term	English	Chinese (Simplified)
+industack.electricity.name	Electricity	电
+industack.electricity.description	Powers appliances and factories	为设备提供动力
+industack.solid_fuel_generator.name	Solid Fuel Generator	固体燃料发电机
+industack.solid_fuel_generator.description	Accepts coal and charcoal to generate electricity	使用固体可燃物发电
+industack.battery.name	Battery	电池
+industack.battery.description	Be avoided high pressure and temperature	投入火中可充当炸弹
+industack.coal.name	Coal	煤炭
+industack.coal.description	Black diamond	黑色钻石
+industack.coal_mine.name	Coal Mine	煤矿场
+industack.coal_mine.description	Infinite coal	无限的煤炭资源
+industack.copper_bar.name	Copper Bar	铜条
+industack.copper_bar.description	Duller gold bar	暗淡的金条
+industack.copper_wire.name	Copper Wire	铜线
+industack.copper_wire.description	Slim copper bar	细铜条且导电
+industack.copper_ore.name	Copper Ore	铜矿石
+industack.copper_ore.description	Can be turned in to copper bars	可以加工成铜条
+industack.copper_mine.name	Copper Mine	铜矿场
+industack.copper_mine.description	Infinite copper ores	无限的铜矿资源
+industack.copper_deposit.name	Copper Deposit	铜矿
+industack.copper_deposit.description	Finite copper ores	有限的铜矿石
+industack.engineer.name	Engineer	工程师
+industack.engineer.description	Knowledgeable villager who owns a useful tool	手上有能开启新世界大门的工具
+industack.screwdriver.name	Screwdriver	螺丝刀
+industack.screwdriver.description	It's not safe to insert it into a socket	能开启新世界大门的工具
+industack.furnace.name	Furnace	熔炉
+industack.furnace.description	Higher temperature than smelter	熔炼更高级的矿石
+industack.protein_bar.name	Protein Bar	蛋白质棒
+industack.protein_bar.description	Put food ont it to increase its food value	难以下咽的食物，能使用其他食物为自己增值
+industack.protein_bar.status.merge	Craft protein bar	蛋白质棒增值中
+industack.portal_in.name	Portal Entrance	传送门入口
+industack.portal_in.description	Teleport resource to the portal exit	将资源传送到出口
+industack.portal_in.status.teleport	Teleporting [item]	传送 [item] 中
+industack.portal_out.name	Portal Entrance	传送门出口
+industack.portal_out.description	Accepts resources teleported	将接收到的资源
+industack.boosterpack.tiny_step.name	Tiny Step	长远目光
+industack.boosterpack.scientific_spirit.name	Scientific Spirit	科学精神

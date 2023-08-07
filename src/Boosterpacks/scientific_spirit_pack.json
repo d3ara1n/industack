@@ -20,6 +20,10 @@
                     "chance": 1
                 },
                 {
+                    "id": "industack.blueprint.protein_bar",
+                    "chance": 1
+                },
+                {
                     "id": "industack.copper_bar",
                     "chance": 1
                 },

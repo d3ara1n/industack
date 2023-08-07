@@ -1,0 +1,10 @@
+{
+    "$schema": "../../schema/card.schema.json",
+    "id": "industack.portal_in",
+    "nameTerm": "industack.portal_in.name",
+    "descriptionTerm": "industack.portal_in.description",
+    "type": "Structures",
+    "_IsBuilding": true,
+    "value": 5,
+    "script": "IndustackNS.Cards.PortalIn"
+}
