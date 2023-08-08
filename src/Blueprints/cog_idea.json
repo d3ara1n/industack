@@ -1,0 +1,34 @@
+{
+    "$schema": "../../schema/blueprint.schema.json",
+    "id": "industack.blueprint.cog",
+    "nameTerm": "industack.blueprint.cog.name",
+    "group": "Resources",
+    "subprints": [
+        {
+            "RequiredCards": [
+                "industack.iron_nugget",
+                "industack.iron_nugget",
+                "industack.engineer"
+            ],
+            "CardsToRemove": [
+                "industack.iron_nugget",
+                "industack.iron_nugget"
+            ],
+            "ResultCard": "industack.iron_cog",
+            "Time": 3
+        },
+        {
+            "RequiredCards": [
+                "industack.copper_nugget",
+                "industack.copper_nugget",
+                "industack.engineer"
+            ],
+            "CardsToRemove": [
+                "industack.copper_nugget",
+                "industack.copper_nugget"
+            ],
+            "ResultCard": "industack.copper_cog",
+            "Time": 3
+        }
+    ]
+}

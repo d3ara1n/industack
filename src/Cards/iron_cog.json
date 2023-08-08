@@ -1,0 +1,9 @@
+{
+    "$schema": "../../schema/card.schema.json",
+    "id": "industack.iron_cog",
+    "nameTerm": "industack.iron_cog.name",
+    "descriptionTerm": "industack.iron_cog.description",
+    "type": "Resources",
+    "script": "INdustackNS.Cards.Cog",
+    "value": 1
+}

@@ -2,8 +2,8 @@
     "$schema": "../../schema/boosterpack.schema.json",
     "id": "industack.boosterpack.scientific_spirit",
     "nameTerm": "industack.boosterpack.scientific_spirit.name",
-    "minQuestCount": 40,
-    "cost": 30,
+    "minQuestCount": 42,
+    "cost": 40,
     "icon": "scientific_spirit.png",
     "location": "Mainland",
     "cardBags": [
@@ -16,16 +16,24 @@
                     "chance": 1
                 },
                 {
-                    "id": "industack.blueprint.copper_bar",
-                    "chance": 1
-                },
-                {
                     "id": "industack.blueprint.protein_bar",
                     "chance": 1
                 },
                 {
-                    "id": "industack.copper_bar",
+                    "id": "industack.blueprint.turret_part",
                     "chance": 1
+                },
+                {
+                    "id": "industack.blueprint.kinetic_turret",
+                    "chance": 1
+                },
+                {
+                    "id": "industack.blueprint.portal",
+                    "chance": 1
+                },
+                {
+                    "id": "industack.copper_bar",
+                    "chance": 5
                 },
                 {
                     "id": "industack.copper_ore",

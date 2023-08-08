@@ -1,0 +1,27 @@
+{
+    "$schema": "../../schema/blueprint.schema.json",
+    "id": "industack.blueprint.turret_part",
+    "nameTerm": "industack.turret_part.name",
+    "group": "Military",
+    "subprints": [
+        {
+            "RequiredCards": [
+                "industack.iron_bar",
+                "industack.iron_bar",
+                "industack.copper_wire",
+                "industack.iron_cog",
+                "industack.iron_cog",
+                "industack.engineer"
+            ],
+            "CardsToRemove": [
+                "industack.iron_bar",
+                "industack.iron_bar",
+                "industack.copper_wire",
+                "industack.iron_cog",
+                "industack.iron_cog"
+            ],
+            "ResultCard": "industack.turret_part",
+            "Time": 30
+        }
+    ]
+}

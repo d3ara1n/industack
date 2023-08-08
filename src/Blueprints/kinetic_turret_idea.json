@@ -1,0 +1,21 @@
+{
+    "$schema": "../../schema/blueprint.schema.json",
+    "id": "industack.blueprint.kinetic_turret",
+    "nameTerm": "industack.kinetic_turret.name",
+    "group": "Military",
+    "subprints": [
+        {
+            "RequiredCards": [
+                "industack.turret_part",
+                "magic_dust",
+                "industack.engineer"
+            ],
+            "CardsToRemove": [
+                "industack.turret_part",
+                "magic_dust"
+            ],
+            "ResultCard": "industack.kinetic_turret",
+            "Time": 30
+        }
+    ]
+}

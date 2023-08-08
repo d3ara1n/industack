@@ -1,0 +1,10 @@
+{
+    "$schema": "../../schema/card.schema.json",
+    "id": "industack.copper_nugget",
+    "nameTerm": "industack.copper_nugget.name",
+    "descriptionTerm": "industack.copper_nugget.description",
+    "type": "Resources",
+    "script": "IndustackNS.Cards.Nugget",
+    "value": 1,
+    "_AttackDamage" : "2"
+}

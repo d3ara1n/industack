@@ -7,5 +7,6 @@
     "script": "IndustackNS.Cards.KineticTurret",
     "value": 7,
     "_IsBuilding": true,
-    "_ConsumeCartridge": true
+    "_ConsumeCartridge": true,
+    "_DamageMultiplier": 8
 }

@@ -1,3 +1,2 @@
-# Stacklands Mod Template
+# Stacklands Mod - Industack
 
-For information about using the template, see the Modding Wiki

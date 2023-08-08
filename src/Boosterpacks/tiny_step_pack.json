@@ -38,7 +38,28 @@
                 {
                     "id": "industack.coal",
                     "chance": 4
+                },
+                {
+                    "id": "industack.blueprint.cog",
+                    "chance": 1
+                },
+                {
+                    "id": "industack.blueprint.nugget",
+                    "chance": 1
+                },
+                {
+                    "id": "industack.blueprint.copper_bar",
+                    "chance": 1
+                },
+                {
+                    "id": "industack.blueprint.copper_wire",
+                    "chance": 1
+                },
+                {
+                    "id": "industack.blueprint.screwdriver",
+                    "chance": 1
                 }
+
             ]
         }
     ]

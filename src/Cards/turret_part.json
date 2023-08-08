@@ -1,0 +1,9 @@
+{
+    "$schema": "../../schema/card.schema.json",
+    "id":"industack.turret_part",
+    "nameTerm": "industack.turret_part.name",
+    "descriptionTerm": "industack.turret_part.description",
+    "type": "Resources",
+    "script": "Resource",
+    "value": 6
+}
