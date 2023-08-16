@@ -6,6 +6,6 @@
     "descriptionTerm": "industack.copper_ore.description",
     "type": "Resources",
     "value": 7,
-    "script": "IndustackNS.Cards.Ore"
+    "script": "Industack.Cards.Ore"
 
 }

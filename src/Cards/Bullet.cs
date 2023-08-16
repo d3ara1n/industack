@@ -1,4 +1,4 @@
-namespace IndustackNS.Cards;
+namespace Industack.Cards;
 
 public class Bullet : Resource, ICartridge
 {

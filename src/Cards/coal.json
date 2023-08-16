@@ -5,7 +5,7 @@
     "nameTerm": "industack.coal.name",
     "descriptionTerm": "industack.coal.description",
     "type": "Resources",
-    "script": "IndustackNS.Cards.Fuel",
+    "script": "Industack.Cards.Fuel",
     "value": 3,
     "_EnergyValue": 12
 }

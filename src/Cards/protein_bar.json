@@ -5,6 +5,6 @@
     "descriptionTerm": "industack.protein_bar.description",
     "icon": "protein_bar.png",
     "type": "Food",
-    "script": "IndustackNS.Cards.ProteinBar",
+    "script": "Industack.Cards.ProteinBar",
     "value": 1
 }

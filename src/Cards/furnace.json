@@ -6,6 +6,6 @@
     "descriptionTerm": "industack.furnace.description",
     "type": "Structures",
     "_IsBuilding": true,
-    "script": "IndustackNS.Cards.Furnace",
+    "script": "Industack.Cards.Furnace",
     "value": 6
 }

@@ -6,5 +6,5 @@
     "type": "Structures",
     "_IsBuilding": true,
     "value": 5,
-    "script": "IndustackNS.Cards.PortalOut"
+    "script": "Industack.Cards.PortalOut"
 }

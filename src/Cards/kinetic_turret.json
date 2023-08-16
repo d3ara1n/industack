@@ -4,7 +4,7 @@
     "nameTerm": "industack.kinetic_turret.name",
     "descriptionTerm": "industack.kinetic_turret.description",
     "type": "Structures",
-    "script": "IndustackNS.Cards.KineticTurret",
+    "script": "Industack.Cards.KineticTurret",
     "value": 7,
     "_IsBuilding": true,
     "_ConsumeCartridge": true,

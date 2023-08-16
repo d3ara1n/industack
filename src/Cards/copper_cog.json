@@ -4,6 +4,6 @@
     "nameTerm": "industack.copper_cog.name",
     "descriptionTerm": "industack.copper_cog.description",
     "type": "Resources",
-    "script": "INdustackNS.Cards.Cog",
+    "script": "Industack.Cards.Cog",
     "value": 1
 }

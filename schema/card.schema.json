@@ -7840,7 +7840,7 @@
           "if": {
             "properties": {
               "script": {
-                "const": "IndustackNS.Cards.Electricity"
+                "const": "Industack.Cards.Electricity"
               }
             },
             "required": [
@@ -7900,7 +7900,7 @@
           "if": {
             "properties": {
               "script": {
-                "const": "IndustackNS.Cards.Fuel"
+                "const": "Industack.Cards.Fuel"
               }
             },
             "required": [
@@ -7963,7 +7963,7 @@
           "if": {
             "properties": {
               "script": {
-                "const": "IndustackNS.Cards.SolidFuelGenerator"
+                "const": "Industack.Cards.SolidFuelGenerator"
               }
             },
             "required": [

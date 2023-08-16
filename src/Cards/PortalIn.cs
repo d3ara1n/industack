@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace IndustackNS.Cards;
+namespace Industack.Cards;
 
 public class PortalIn : Building
 {

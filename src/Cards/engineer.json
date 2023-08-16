@@ -5,5 +5,5 @@
     "descriptionTerm": "industack.engineer.description",
     "icon": "villager.png",
     "type": "Humans",
-    "script": "IndustackNS.Cards.Engineer"
+    "script": "Industack.Cards.Engineer"
 }

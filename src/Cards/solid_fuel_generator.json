@@ -8,5 +8,5 @@
     "pickupSound": "heavy_pickup",
     "_IsBuilding": true,
     "value": 7,
-    "script": "IndustackNS.Cards.SolidFuelGenerator"
+    "script": "Industack.Cards.SolidFuelGenerator"
 }

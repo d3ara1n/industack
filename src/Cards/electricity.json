@@ -5,7 +5,7 @@
     "descriptionTerm": "industack.electricity.description",
     "icon": "electricity.png",
     "type": "Resources",
-    "script": "IndustackNS.Cards.Electricity",
+    "script": "Industack.Cards.Electricity",
     "value": -1,
     "_IsShiny": true
 }

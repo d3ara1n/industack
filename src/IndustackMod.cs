@@ -3,9 +3,9 @@ using System;
 using System.Collections;
 using UnityEngine;
 
-namespace IndustackNS
+namespace Industack
 {
-    public class Industack : Mod
+    public class IndustackMod : global::Mod
     {
         public override void Ready()
         {
